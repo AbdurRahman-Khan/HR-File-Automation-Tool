@@ -1,7 +1,6 @@
 # 🗂️ HR File Automation Tool
 
 Automate your repetitive HR file tasks like renaming, format conversion, and file management with this Python-based offline toolkit.
-A practical Python automation project that renames, organizes, and converts HR-related files like resumes, spreadsheets, and reports. Built for admin teams and virtual assistants.
 
 **Created by:** Abdur Rahman Khan  
 🔗 [LinkedIn – @seark](https://www.linkedin.com/in/seark)  
