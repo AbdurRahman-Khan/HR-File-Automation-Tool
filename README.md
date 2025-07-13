@@ -91,7 +91,7 @@ Screenshots showing before/after renaming and conversion are located in:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](./LICENSE.txt) — free to use, share, and modify with attribution.
+This project is licensed under the [MIT License](./LICENSE) — free to use, share, and modify with attribution.
 
 ---
 
